@@ -1,4 +1,6 @@
 # UIDAI-DATA-HACKATHON-2026
+![Uploading image.png…]()
+
 Aadhaar Enrolment Anomalies & Fraud Detection
 UIDAI Data Hackathon 2026
 
